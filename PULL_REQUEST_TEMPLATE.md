@@ -1,0 +1,1 @@
+Adiciona estrutura base do projeto com package.json, .env.example e Design System (variables.css)
